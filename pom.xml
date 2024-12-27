@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Flipkart Releases Nexus Repository</name>
-	      <url>http://13.233.212.179:9980/saidevops/repository/flipkart-release-repository/</url>
+	      <url>http://43.205.139.99:9980/saidevops/repository/flipkart-release-repository/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.212.179:9980/saidevops/repository/flipkart-snapshot-repository/</url>
+	      <url>http://43.205.139.99:9980/saidevops/repository/flipkart-snapshot-repository/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
