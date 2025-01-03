@@ -12,7 +12,7 @@ node
     {
         sh "${mavenHome}/bin/mvn clean package"
     }
-    
+    /*
     stage('UploadartifactIntoNExus')
     
     {
@@ -35,5 +35,5 @@ Regards,
 Sai Rampelli (DevOps Engineer)
 8919715494''', cc: '', from: '', replyTo: '', subject: 'Build Status ', to: 'reachsai8919@gmail.com'
     }
-    
+   */ 
 }
